@@ -1,5 +1,4 @@
 apiVersion: v1
-mas dañado que dañadin:V
 kind: Template
 labels:
   template: cicd
